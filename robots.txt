@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://clipoubrofc-tech.github.io/fatorz-portfolio/sitemap.xml
+Sitemap: https://fatorz-portfolio.vercel.app/sitemap.xml
